@@ -49,8 +49,10 @@ or you can use your prefer extension to your browser for example [ RestMan for o
 
 # Resources / References
 ##### public API about list of countries 
-- [ metaweather ](https://www.metaweather.com)
+- [ metaweather ](https://www.metaweather.com) has been used in this project
 - [ openweathermap.org ](https://openweathermap.org/api)
+
+> Note: the free api that has been used in this project doesn't support all world cities so check availabe city from here https://www.metaweather.com/map/
 
 Package used in this project [ bioudi / laravel-meta-weather-api ](https://github.com/bioudi/laravel-meta-weather-api) && [guzzlehttp/guzzle](https://github.com/guzzle/guzzle)
 
